@@ -1,5 +1,7 @@
 # Pyhton-Practice
 
+<hr>
+
 # Chapters
 The course is divided into several chapters, each focusing on different aspects of Python programming:
 
