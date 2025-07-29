@@ -8,12 +8,12 @@
 # engine = pyttsx3.init()
 
 # # Create a client (it reads your OPENAI_API_KEY from environment variable)
-# # client = OpenAI(api_key="sk-4d4d68006465427e9e2d57cf18efac98")
+# # client = OpenAI(api_key="")
 
-# # client = OpenAI(api_key="sk-4d4d68006465427e9e2d57cf18efac98", base_url="https://api.deepseek.com")
+# # client = OpenAI(api_key="", base_url="https://api.deepseek.com")
 
 # client = Murf(
-#     api_key="ap2_8a755c81-7ac6-4bbb-a5db-b97ab1eb8f9a" # Not required if you have set the MURF_API_KEY environment variable
+#     api_key="" # Not required if you have set the MURF_API_KEY environment variable
 # )
 
 # def speak(text):
